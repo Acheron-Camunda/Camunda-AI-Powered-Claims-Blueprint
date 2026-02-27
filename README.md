@@ -44,10 +44,10 @@ This approach delivers:
 - Proceeds to next stages only after eligibility and data checks pass.
 
 <p align="center">
-  <img src="Assets/ClaimValidation.png" alt="Insurance Main Flow" width="700"/>
+  <img src="assets/ClaimValidation.png" alt="Insurance Main Flow" width="700"/>
 </p>
 <p align="center">
-  <img src="Assets/FillClaimDetails.png" alt="Claim Intake Flow" width="700"/>
+  <img src="assets/FillClaimDetails.png" alt="Claim Intake Flow" width="700"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@ This approach delivers:
 - Supports approval, re-upload request, or rejection with clear routing.
 
 <p align="center">
-  <img src="Assets/DocumentProcessing.png" alt="Document Processing Flow" width="700"/>
+  <img src="assets/DocumentProcessing.png" alt="Document Processing Flow" width="700"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@ This approach delivers:
 - Moves approved estimates forward and routes rejected outcomes through defined rejection flow.
 
 <p align="center">
-  <img src="Assets/EstimateApproval.png" alt="Estimate Approval Flow" width="700"/>
+  <img src="assets/EstimateApproval.png" alt="Estimate Approval Flow" width="700"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ This approach delivers:
 - Releases assigned surveyor after required inspection outcomes are met.
 
 <p align="center">
-  <img src="Assets/RepairAndInspection.png" alt="Repair and Inspection Flow" width="700"/>
+  <img src="assets/RepairAndInspection.png" alt="Repair and Inspection Flow" width="700"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@ This approach delivers:
 - Closes process with complete traceability of status and decisions.
 
 <p align="center">
-  <img src="Assets/QualityAndSettelement.png" alt="Quality and Settlement Flow" width="700"/>
+  <img src="assets/QualityAndSettelement.png" alt="Quality and Settlement Flow" width="700"/>
 </p>
 
 ---
