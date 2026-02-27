@@ -1,4 +1,4 @@
-# AI-Orchestrated Motor Insurance Claims Solution
+# AI-Orchestrated Motor Insurance Claims Blueprint
 
 This blueprint showcases an end-to-end motor insurance claims process orchestrated on Camunda 8.  
 It is designed to reduce manual rework, improve claim decision quality, and maintain clear auditability from claim submission to settlement closure.
